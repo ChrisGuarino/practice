@@ -6,3 +6,5 @@ dl_venv/
 env/
 venv/
 .env/
+.jax_venv/
+.claude/
